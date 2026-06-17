@@ -1,7 +1,5 @@
 # LoCoMo MEMORA Reproduction Report
 
-Completed on 2026-06-17 local time.
-
 ## Scope
 
 Implemented and evaluated:

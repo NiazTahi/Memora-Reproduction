@@ -20,8 +20,6 @@ $env:PYTHONPATH = "src"
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-Secrets are loaded from `.env`. Do not commit `.env` or `openai_keys.txt`.
-
 ## Data
 
 The official LoCoMo repository was cloned under `data/raw/locomo_repo`, and the
@@ -47,9 +45,6 @@ $env:PYTHONPATH = "src"
 .\.venv\Scripts\python.exe scripts\run_memora_p.py
 .\.venv\Scripts\python.exe scripts\evaluate_results.py --with-llm-judge
 ```
-
-The scripts are resumable by output file, and OpenAI calls are cached in
-`data/cache`.
 
 ## Current Results
 
