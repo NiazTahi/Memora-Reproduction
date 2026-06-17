@@ -1,0 +1,29 @@
+# Secrets
+.env
+.env.*
+!.env.example
+openai_keys.txt
+
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local/generated data
+data/cache/
+data/raw/
+data/processed/*
+!data/processed/samples/
+!data/processed/samples/**
+
+# Large/generated run artifacts
+results/*_predictions.jsonl
+
+# Keep final lightweight result artifacts
+!results/
+!results/summary_table.json
+!results/reproduction_report.md

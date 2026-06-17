@@ -1,0 +1,265 @@
+{
+  "conversation_id": "conv-26",
+  "sample_note": "Truncated sample of a generated MEMORA store. Full stores are ignored and regenerated locally.",
+  "embedding_note": "Embedding vectors are abbreviated to the first 8 dimensions for repository size/readability.",
+  "segments": [
+    {
+      "id": "conv-26:seg:1:0",
+      "conversation_id": "conv-26",
+      "topic": "Initial catch-up and discussion about LGBTQ support group",
+      "message_ids": [
+        "D1:1",
+        "D1:2",
+        "D1:3",
+        "D1:4",
+        "D1:5",
+        "D1:6",
+        "D1:7",
+        "D1:8"
+      ],
+      "text": "(1:56 pm on 8 May, 2023) D1:1 Caroline: Hey Mel! Good to see you! How have you been?\n(1:56 pm on 8 May, 2023) D1:2 Melanie: Hey Caroline! Good to see you! I'm swamped with the kids & work. What's up with you? Anything new?\n(1:56 pm on 8 May, 2023) D1:3 Caroline: I went to a LGBTQ support group yesterday and it was so powerful.\n(1:56 pm on 8 May, 2023) D1:4 Melanie: Wow, that's cool, Caroline! What happened that was so awesome? Did you hear any inspiring stories?\n(1:56 pm on 8 May, 2023) D1:5 Caroline: The transgender stories were so inspiring! I was so happy and thankful for all the support.\n[shared image caption: a photo of a dog walking past a wall with a painting of a woman]\n(1:56 pm on 8 May, 2023) D1:6 Melanie: Wow, love that painting! So cool you found such a helpful group. What's it done for you?\n(1:56 pm on 8 May, 2023) D1:7 Caroline: The support group has made me feel accepted and given me courage to embrace myself.\n(1:56 pm on 8 May, 2023) D1:8 Melanie: That's really cool. You've got guts. What now?",
+      "timestamp": "1:56 pm on 8 May, 2023"
+    },
+    {
+      "id": "conv-26:seg:9:1",
+      "conversation_id": "conv-26",
+      "topic": "Caroline's future plans and career interests",
+      "message_ids": [
+        "D1:9",
+        "D1:10",
+        "D1:11",
+        "D1:12",
+        "D1:13",
+        "D1:14",
+        "D1:15",
+        "D1:16"
+      ],
+      "text": "(1:56 pm on 8 May, 2023) D1:9 Caroline: Gonna continue my edu and check out career options, which is pretty exciting!\n(1:56 pm on 8 May, 2023) D1:10 Melanie: Wow, Caroline! What kinda jobs are you thinkin' of? Anything that stands out?\n(1:56 pm on 8 May, 2023) D1:11 Caroline: I'm keen on counseling or working in mental health - I'd love to support those with similar issues.\n(1:56 pm on 8 May, 2023) D1:12 Melanie: You'd be a great counselor! Your empathy and understanding will really help the people you work with. By the way, take a look at this.\n[shared image caption: a photo of a painting of a sunset over a lake]\n(1:56 pm on 8 May, 2023) D1:13 Caroline: Thanks, Melanie! That's really sweet. Is this your own painting?\n(1:56 pm on 8 May, 2023) D1:14 Melanie: Yeah, I painted that lake sunrise last year! It's special to me.\n(1:56 pm on 8 May, 2023) D1:15 Caroline: Wow, Melanie! The colors really blend nicely. Painting looks like a great outlet for expressing yourself.\n(1:56 pm on 8 May, 2023) D1:16 Melanie: Thanks, Caroline! Painting's a fun way to express my feelings and get creative. It's a great way to relax after a long day.",
+      "timestamp": "1:56 pm on 8 May, 2023"
+    }
+  ],
+  "episodic_memories": [
+    {
+      "id": "conv-26:seg:1:0:episodic",
+      "conversation_id": "conv-26",
+      "segment_id": "conv-26:seg:1:0",
+      "index": "Caroline attends inspiring LGBTQ support group",
+      "value": "Caroline shared with Melanie that she attended a powerful LGBTQ support group where she heard inspiring transgender stories. The experience made her feel accepted and gave her courage to embrace herself.",
+      "raw_segment": "(1:56 pm on 8 May, 2023) D1:1 Caroline: Hey Mel! Good to see you! How have you been?\n(1:56 pm on 8 May, 2023) D1:2 Melanie: Hey Caroline! Good to see you! I'm swamped with the kids & work. What's up with you? Anything new?\n(1:56 pm on 8 May, 2023) D1:3 Caroline: I went to a LGBTQ support group yesterday and it was so powerful.\n(1:56 pm on 8 May, 2023) D1:4 Melanie: Wow, that's cool, Caroline! What happened that was so awesome? Did you hear any inspiring stories?\n(1:56 pm on 8 May, 2023) D1:5 Caroline: The transgender stories were so inspiring! I was so happy and thankful for all the support.\n[shared image caption: a photo of a dog walking past a wall with a painting of a woman]\n(1:56 pm on 8 May, 2023) D1:6 Melanie: Wow, love that painting! So cool you found such a helpful group. What's it done for you?\n(1:56 pm on 8 May, 2023) D1:7 Caroline: The support group has made me feel accepted and given me courage to embrace myself.\n(1:56 pm on 8 May, 2023) D1:8 Melanie: That's really cool. You've got guts. What now?"
+    },
+    {
+      "id": "conv-26:seg:9:1:episodic",
+      "conversation_id": "conv-26",
+      "segment_id": "conv-26:seg:9:1",
+      "index": "Caroline's career plans and Melanie's painting",
+      "value": "Caroline shared her excitement about continuing education and exploring career options in counseling or mental health to support others. Melanie encouraged her and shared a photo of a lake sunrise painting she created, explaining that painting is a creative and relaxing outlet for her.",
+      "raw_segment": "(1:56 pm on 8 May, 2023) D1:9 Caroline: Gonna continue my edu and check out career options, which is pretty exciting!\n(1:56 pm on 8 May, 2023) D1:10 Melanie: Wow, Caroline! What kinda jobs are you thinkin' of? Anything that stands out?\n(1:56 pm on 8 May, 2023) D1:11 Caroline: I'm keen on counseling or working in mental health - I'd love to support those with similar issues.\n(1:56 pm on 8 May, 2023) D1:12 Melanie: You'd be a great counselor! Your empathy and understanding will really help the people you work with. By the way, take a look at this.\n[shared image caption: a photo of a painting of a sunset over a lake]\n(1:56 pm on 8 May, 2023) D1:13 Caroline: Thanks, Melanie! That's really sweet. Is this your own painting?\n(1:56 pm on 8 May, 2023) D1:14 Melanie: Yeah, I painted that lake sunrise last year! It's special to me.\n(1:56 pm on 8 May, 2023) D1:15 Caroline: Wow, Melanie! The colors really blend nicely. Painting looks like a great outlet for expressing yourself.\n(1:56 pm on 8 May, 2023) D1:16 Melanie: Thanks, Caroline! Painting's a fun way to express my feelings and get creative. It's a great way to relax after a long day."
+    }
+  ],
+  "entries": [
+    {
+      "id": "conv-26:mem:1",
+      "conversation_id": "conv-26",
+      "primary_abstraction": "caroline_lgbtq_support_group_experience",
+      "memory_value": "Caroline attended a LGBTQ support group on 7 May, 2023. She found the transgender stories at the LGBTQ support group inspiring and felt happy and thankful for the support. The LGBTQ support group made Caroline feel accepted and gave her courage to embrace herself.",
+      "episodic_ids": [
+        "conv-26:seg:1:0:episodic"
+      ],
+      "cue_anchors": [
+        "Caroline transgender stories",
+        "LGBTQ group acceptance",
+        "support group courage"
+      ]
+    },
+    {
+      "id": "conv-26:mem:2",
+      "conversation_id": "conv-26",
+      "primary_abstraction": "melanie_current_status",
+      "memory_value": "Melanie is currently swamped with the kids and work as of 8 May, 2023.",
+      "episodic_ids": [
+        "conv-26:seg:1:0:episodic"
+      ],
+      "cue_anchors": [
+        "Melanie busy schedule",
+        "Melanie kids work"
+      ]
+    },
+    {
+      "id": "conv-26:mem:3",
+      "conversation_id": "conv-26",
+      "primary_abstraction": "caroline_education_and_career_interest",
+      "memory_value": "Caroline plans to continue her education and explore career options.",
+      "episodic_ids": [
+        "conv-26:seg:9:1:episodic"
+      ],
+      "cue_anchors": [
+        "Caroline education plans",
+        "Career exploration goals"
+      ]
+    },
+    {
+      "id": "conv-26:mem:4",
+      "conversation_id": "conv-26",
+      "primary_abstraction": "caroline_counseling_interest",
+      "memory_value": "Caroline has been looking into counseling or mental health work and is passionate about helping people and making a positive impact. She is considering this as a career because she wants to help people who have gone through similar experiences as her, including working with trans people to help them accept themselves and support their mental health. As of 12 July 2023, Caroline started looking into counseling and mental health career options to help others on their mental health journeys.",
+      "episodic_ids": [
+        "conv-26:seg:9:1:episodic",
+        "conv-26:seg:69:5:episodic",
+        "conv-26:seg:95:3:episodic",
+        "conv-26:seg:113:8:episodic"
+      ],
+      "cue_anchors": [
+        "Caroline mental health",
+        "counseling career start",
+        "supporting trans acceptance"
+      ]
+    },
+    {
+      "id": "conv-26:mem:5",
+      "conversation_id": "conv-26",
+      "primary_abstraction": "melanie_painted_lake_sunrise_2022",
+      "memory_value": "Melanie painted a lake sunrise painting in 2022.",
+      "episodic_ids": [
+        "conv-26:seg:9:1:episodic"
+      ],
+      "cue_anchors": [
+        "Melanie lake art",
+        "sunrise painting 2022"
+      ]
+    }
+  ],
+  "abstraction_embeddings": [
+    [
+      -0.0082550048828125,
+      -0.0164337158203125,
+      0.057525634765625,
+      0.0195465087890625,
+      -0.032012939453125,
+      0.0172271728515625,
+      -0.027008056640625,
+      0.000133514404296875
+    ],
+    [
+      -0.0013437271118164062,
+      -0.0230255126953125,
+      -0.0081634521484375,
+      -0.01219940185546875,
+      0.0005555152893066406,
+      -0.00021016597747802734,
+      0.0247955322265625,
+      0.011749267578125
+    ],
+    [
+      0.022125244140625,
+      -0.041168212890625,
+      0.05322265625,
+      0.019195556640625,
+      -0.0007877349853515625,
+      0.0147552490234375,
+      -0.00267791748046875,
+      0.01059722900390625
+    ],
+    [
+      -0.011444091796875,
+      -0.0152130126953125,
+      0.057861328125,
+      0.055450439453125,
+      -0.01488494873046875,
+      0.037078857421875,
+      -0.028656005859375,
+      0.0220794677734375
+    ],
+    [
+      0.01412200927734375,
+      -0.020782470703125,
+      -0.00673675537109375,
+      -0.029571533203125,
+      -0.0141143798828125,
+      -0.004302978515625,
+      0.0177764892578125,
+      -0.0009713172912597656
+    ]
+  ],
+  "cue_embeddings": {
+    "2023 painting plans": [
+      0.0014619827270507812,
+      -0.03192138671875,
+      0.03778076171875,
+      -0.0426025390625,
+      -0.0526123046875,
+      0.01026153564453125,
+      -0.004711151123046875,
+      -0.00202178955078125
+    ],
+    "Accident reflection": [
+      0.0025501251220703125,
+      0.0285797119140625,
+      -0.01280975341796875,
+      0.029571533203125,
+      -0.0199127197265625,
+      0.015625,
+      -0.037689208984375,
+      0.0031185150146484375
+    ],
+    "Adoption advice group": [
+      0.0181427001953125,
+      0.0009551048278808594,
+      0.0653076171875,
+      0.0290069580078125,
+      -0.0211029052734375,
+      0.00323486328125,
+      -0.0291595458984375,
+      0.040283203125
+    ],
+    "Amy Ellis Nutt": [
+      -0.017974853515625,
+      -0.0137786865234375,
+      0.026519775390625,
+      -0.021697998046875,
+      0.0077362060546875,
+      -0.0018510818481445312,
+      -0.0103759765625,
+      0.048858642578125
+    ],
+    "Animal art peace": [
+      0.05938720703125,
+      -0.01375579833984375,
+      0.0004665851593017578,
+      0.07373046875,
+      -0.050262451171875,
+      -0.001941680908203125,
+      -0.01543426513671875,
+      0.046844482421875
+    ],
+    "Appreciation reminders": [
+      0.0201568603515625,
+      0.009307861328125,
+      -0.01062774658203125,
+      0.01800537109375,
+      -0.036712646484375,
+      -0.0184173583984375,
+      -0.0169219970703125,
+      0.04095458984375
+    ],
+    "Art as therapy": [
+      -0.0357666015625,
+      0.03033447265625,
+      -0.00521087646484375,
+      0.043548583984375,
+      -0.0067596435546875,
+      -0.0262451171875,
+      -0.0174560546875,
+      0.05096435546875
+    ],
+    "Art expresses feelings": [
+      0.0201263427734375,
+      -0.0189666748046875,
+      -0.00606536865234375,
+      0.01971435546875,
+      0.0169677734375,
+      -0.0516357421875,
+      -0.020477294921875,
+      0.06231689453125
+    ]
+  }
+}

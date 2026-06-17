@@ -1,0 +1,29 @@
+paths:
+  raw_data_dir: data/raw/locomo
+  processed_data_dir: data/processed
+  cache_dir: data/cache
+  results_dir: results
+
+openai:
+  answer_model: gpt-4.1-mini
+  memory_model: gpt-4.1-mini
+  policy_model: gpt-4.1-mini
+  judge_model: gpt-4o-mini
+  embedding_model: text-embedding-3-small
+  seed: 42
+
+rag:
+  chunk_size_tokens: 500
+  top_k: 3
+
+memora:
+  consolidation_top_k: 5
+  consolidation_similarity_threshold: 0.78
+  semantic_top_k_abstractions: 8
+  semantic_top_k_cues: 12
+  semantic_max_memories: 8
+  policy_max_steps: 4
+  policy_expand_k: 3
+
+evaluation:
+  run_llm_judge: true
